@@ -4,15 +4,12 @@ html {
 
 h1, h2 {
   color: #471c38;
-}
-
-h1 {
   font-family: 'PT Sans', sans-serif;
   font-weight: bold;
 }
 
 nav,
-ol {
+.top-link {
   font-family: 'PT Sans', sans-serif;
   font-weight: bold;
   color: #99213d;
@@ -21,10 +18,12 @@ ol {
 
 a:link {
   color: #99213d;
+  text-decoration: none;
 }
 
 a:hover {
   color: #471c38;
+  text-decoration: underline;
 }
 
 figcaption {
@@ -33,7 +32,41 @@ figcaption {
 }
 
 .lg-text {
-  font-family: 'PT Sans', sans-serif;
+  font-family: 'PT Serif', serif;
   font-weight: bold;
   font-size: 1.2rem;
+}
+
+.body-text {
+  font-family: 'PT Serif', serif;
+}
+
+blockquote {
+  font-family: 'PT Serif', serif;
+  font-style: italic;
+  font-size: 1.5rem;
+}
+
+.chris-pratt {
+  font-size: 1rem
+}
+
+.cv {
+  font-family: 'PT Serif', serif;
+  list-style-type: lower-greek;
+}
+h2 + p {
+  font-style: italic;
+}
+
+dl, ul, footer {
+  font-family: 'PT Serif', serif;
+}
+
+dt {
+  font-weight: bold;
+}
+
+ul {
+  list-style-type: circle;
 }

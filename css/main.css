@@ -10,3 +10,30 @@ h1 {
   font-family: 'PT Sans', sans-serif;
   font-weight: bold;
 }
+
+nav,
+ol {
+  font-family: 'PT Sans', sans-serif;
+  font-weight: bold;
+  color: #99213d;
+  list-style-type: none;
+}
+
+a:link {
+  color: #99213d;
+}
+
+a:hover {
+  color: #471c38;
+}
+
+figcaption {
+  font-style: italic;
+  text-align: center;
+}
+
+.lg-text {
+  font-family: 'PT Sans', sans-serif;
+  font-weight: bold;
+  font-size: 1.2rem;
+}

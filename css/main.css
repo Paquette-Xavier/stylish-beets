@@ -16,6 +16,10 @@ nav,
   list-style-type: none;
 }
 
+img {
+  width: 100%;
+}
+
 a:link {
   color: #99213d;
   text-decoration: none;

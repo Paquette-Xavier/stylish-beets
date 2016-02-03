@@ -5,3 +5,8 @@ html {
 h1, h2 {
   color: #471c38;
 }
+
+h1 {
+  font-family: 'PT Sans', sans-serif;
+  font-weight: bold;
+}

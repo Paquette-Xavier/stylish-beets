@@ -20,7 +20,7 @@ img {
   width: 100%;
 }
 
-a:link {
+a {
   color: #99213d;
   text-decoration: none;
 }
@@ -43,16 +43,20 @@ figcaption {
 
 .body-text {
   font-family: 'PT Serif', serif;
+  font-weight: normal;
+  line-height: 1.5;
 }
 
 blockquote {
   font-family: 'PT Serif', serif;
   font-style: italic;
   font-size: 1.5rem;
+  line-height: 1.5;
 }
 
 .chris-pratt {
-  font-size: 1rem
+  font-weight: normal;
+  font-size: 1rem;
 }
 
 .cv {

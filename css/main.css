@@ -4,13 +4,13 @@ html {
 
 h1, h2 {
   color: #471c38;
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
   font-weight: bold;
 }
 
 nav,
 .top-link {
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
   font-weight: bold;
   color: #99213d;
   list-style-type: none;
@@ -36,19 +36,19 @@ figcaption {
 }
 
 .lg-text {
-  font-family: 'PT Serif', serif;
+  font-family: "PT Serif", serif;
   font-weight: bold;
   font-size: 1.2rem;
 }
 
 .body-text {
-  font-family: 'PT Serif', serif;
+  font-family: "PT Serif", serif;
   font-weight: normal;
   line-height: 1.5;
 }
 
 blockquote {
-  font-family: 'PT Serif', serif;
+  font-family: "PT Serif", serif;
   font-style: italic;
   font-size: 1.5rem;
   line-height: 1.5;
@@ -60,15 +60,16 @@ blockquote {
 }
 
 .cv {
-  font-family: 'PT Serif', serif;
+  font-family: "PT Serif", serif;
   list-style-type: lower-greek;
 }
+
 h2 + p {
   font-style: italic;
 }
 
 dl, ul, footer {
-  font-family: 'PT Serif', serif;
+  font-family: "PT Serif", serif;
 }
 
 dt {
